@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Angelina 👋
 
-<!--
-**angelinakoval/angelinakoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Hunter College, CUNY, with a passion for 
+Machine Learning and Robotics.
 
-Here are some ideas to get you started:
+## 🔬 What I'm working on
+- Contributing to a socially aware robot navigation framework at the TIER Lab, Hunter College
+- Completing the **Break Through Tech AI Fellowship** through Cornell Tech
+- Sharpening my technical interview skills through **Code2Career** mentorship with a Google Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python, C++, SQL  
+**Libraries:** NumPy, Pandas, scikit-learn, TensorFlow, Matplotlib, Seaborn  
+**Tools:** ROS2, Gazebo, MediaPipe, Git, GitHub, Linux, Jupyter Notebook  
+**Databases:** PostgreSQL, MySQL  
+
+## 📌 Featured Projects
+- 📊 [Census Income Prediction Model](https://github.com/angelinakoval/census-income-prediction) — 
+  Break Through Tech Capstone
+- 🏠 [Airbnb Superhost Prediction Model](https://github.com/angelinakoval/airbnb-superhost-model) — 
+  Logistic Regression & GridSearchCV
+
+## 🎓 Education
+- **B.A. Computer Science** | Hunter College, CUNY | Expected May 2027
+
+## 📫 Let's connect
+- 💼 [LinkedIn](https://linkedin.com/in/angelinakoval-11bb3a215)
