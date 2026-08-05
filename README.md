@@ -15,11 +15,11 @@ Machine Learning and Robotics.
 **Databases:** PostgreSQL, MySQL  
 
 ## 📌 Featured Projects
-- 📊 [Census Income Prediction Model](https://github.com/angelinakoval/census-income-prediction) — 
+- 📊 [Census Income Prediction Model](https://github.com/angelinakoval/census-income-prediction) - 
   Break Through Tech Capstone
-- 🏠 [Airbnb Superhost Prediction Model](https://github.com/angelinakoval/airbnb-superhost-model) — 
+- 🏠 [Airbnb Superhost Prediction Model](https://github.com/angelinakoval/airbnb-superhost-model) - 
   Logistic Regression & GridSearchCV (Break Through Tech Fellowship project)
-- 🤖 [Document RAG Customer Support](https://github.com/angelinakoval/document-rag-customer-support) — RAG Pipeline with Query Rewriting & Deployment Risk Analysis (Break Through Tech Fellowship project)
+- 🤖 [Document RAG Customer Support](https://github.com/angelinakoval/document-rag-customer-support) - RAG Pipeline with Query Rewriting & Deployment Risk Analysis (Break Through Tech Fellowship project)
 
 ## 🎓 Education
 - **B.A. Computer Science** | Hunter College, CUNY | Expected May 2027
